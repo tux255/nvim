@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/ahara/RubymineProjects/telapp/member'
+let g:netrw_dirhist_6='/home/ahara/RubymineProjects/LocalDevEnv'
+let g:netrw_dirhist_5='/home/ahara/RubymineProjects/telapp/member'
+let g:netrw_dirhist_4='/home/ahara/RubymineProjects/telapp/admin'
+let g:netrw_dirhist_3='/home/ahara/RubymineProjects/telapp/member/web/app'
+let g:netrw_dirhist_2='/home/ahara/RubymineProjects/telapp/tas'
+let g:netrw_dirhist_1='/home/ahara/RubymineProjects/telapp/member'
+let g:netrw_dirhist_0='/home/ahara/RubymineProjects/telapp/admin'
+let g:netrw_dirhist_9='/home/ahara/RubymineProjects/telapp/tas'
+let g:netrw_dirhist_8='/home/ahara/RubymineProjects/telapp/admin'
